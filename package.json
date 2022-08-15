@@ -1,0 +1,26 @@
+{
+  "name": "kael-android-sms-react-native",
+  "version": "2.1.0",
+  "description": "React-native module that gets sms from android device for all android versions,(android +11 included)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithkael/kael-android-sms-react-native.git"
+  },
+  "keywords": [
+    "react-native",
+    "android"
+  ],
+  "author": "Masoud Kael",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/codewithkael/kael-android-sms-react-native/issues"
+  },
+  "homepage": "https://github.com/codewithkael/kael-android-sms-react-native#readme"
+}
